@@ -13,7 +13,7 @@ Hi, I'm Arslan Ahmad! 👋<br><br>I'm Full-Stack Developer with a deep love for 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arslanahmad2263&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arslanahmad2263" alt="arslanahmad2263" /></a>)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arslanahmad2263" alt="arslanahmad2263" /></a> </p>
 
 
 ---
