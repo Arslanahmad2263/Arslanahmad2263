@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hi, I'm Arslan Ahmad! 👋<br><br>I'm Full-Stack Developer with a deep love for the Python ecosystem. I spend most of my time building robust web applications using Django and React, ensuring that the behind-the-scenes logic is as seamless as the user interface.<br><br>🔭 I’m doing: Building full-stack apps with Django and React.<br><br>🌱 I’m learning: Docker, Kubernetes, and Automation.<br><br>⚡ Goal: Building scalable systems that practically deploy themselves.
 
 
