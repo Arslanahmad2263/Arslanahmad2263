@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Arslan Ahmad! </h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Arslan Ahmad
+=====================================================================================================================================
+
 
 I'm Full-Stack Developer with a deep love for the Python ecosystem. I spend most of my time building robust web applications using Django and React, ensuring that the behind-the-scenes logic is as seamless as the user interface.<br><br>☑️ I’m doing: Building full-stack apps with Django and React.<br><br>☑️ I’m learning: Docker, Kubernetes, and Automation.<br><br>☑️ Goal: Building scalable systems that practically deploy themselves.
 
@@ -13,8 +15,13 @@ I'm Full-Stack Developer with a deep love for the Python ecosystem. I spend most
 ![](https://nirzak-streak-stats.vercel.app/?user=Arslanahmad2263&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arslanahmad2263&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arslanahmad2263" alt="arslanahmad2263" /></a> </p>
+### Support Me
+
+<ul style="list-style-type: none; margin: 0;">
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/Arslanahmad"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+
+</ul>
 
 
 ---
